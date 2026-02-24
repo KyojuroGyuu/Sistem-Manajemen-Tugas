@@ -120,6 +120,7 @@ Buat folder 'uploads' di root direktori:
     mkdir uploads
     mkdir uploads/files
     mkdir uploads/images
+    
 ### 4. Setup Database
 
 ``` bash
