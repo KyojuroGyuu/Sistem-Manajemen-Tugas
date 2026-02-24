@@ -120,7 +120,7 @@ Buat folder 'uploads' di root direktori:
     mkdir uploads
     mkdir uploads/files
     mkdir uploads/images
-    
+
 ### 4. Setup Database
 
 ``` bash
@@ -162,5 +162,11 @@ Gunakan header berikut untuk endpoint yang membutuhkan autentikasi:
 -   Mengirim jawaban
 -   Upload file
 -   Menandai tugas selesai
+
+------------------------------------------------------------------------
+
+## Lisensi
+
+ISC License
 
 ------------------------------------------------------------------------
