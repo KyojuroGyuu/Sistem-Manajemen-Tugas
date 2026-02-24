@@ -102,7 +102,7 @@ cd SistemManajemenTugas
 npm install
 ```
 
-### 3. Konfigurasi Environment
+### 3. Konfigurasi Environment dan Folder
 
 Buat file `.env`:
 
@@ -115,6 +115,11 @@ Buat file `.env`:
     JWT_SECRET="your_secret_key"
     PORT=3000
 
+Buat folder 'uploads' di root direktori:
+
+    mkdir uploads
+    mkdir uploads/files
+    mkdir uploads/images
 ### 4. Setup Database
 
 ``` bash
