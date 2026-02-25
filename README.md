@@ -164,9 +164,3 @@ Gunakan header berikut untuk endpoint yang membutuhkan autentikasi:
 -   Menandai tugas selesai
 
 ------------------------------------------------------------------------
-
-## Lisensi
-
-ISC License
-
-------------------------------------------------------------------------
